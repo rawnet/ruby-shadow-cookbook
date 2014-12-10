@@ -1,3 +1,4 @@
+name              "ruby-shadow"
 maintainer        "Webpop"
 maintainer_email  "admin@webpop.com"
 license           "Apache 2.0"
